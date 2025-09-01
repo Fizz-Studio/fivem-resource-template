@@ -4,10 +4,10 @@ A modern, comprehensive template for FiveM resources. Pre-configured with best p
 
 ## ✨ Features
 
-- ✅ Modern `fxmanifest.lua` with Lua 5.4 support.
-- ✅ Organized folder structure (client/server).
-- ✅ Ready-to-use boilerplate files.
-- ✅ Git configuration included.
+- Modern `fxmanifest.lua` with Lua 5.4 support.
+- Organized folder structure (client/server).
+- Ready-to-use boilerplate files.
+- Git configuration included.
 
 ## 📋 Getting Started
 
