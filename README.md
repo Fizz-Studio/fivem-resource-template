@@ -1,6 +1,6 @@
 # 🚀 FiveM Resource Template
 
-A modern, comprehensive template for FiveM resources. Pre-configured with best practices, optimized structure, and essential boilerplate to kickstart your development with clean architecture and performance in mind.
+A modern, comprehensive template for FiveM resources.
 
 ## ✨ Features
 
